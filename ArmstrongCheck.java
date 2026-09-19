@@ -31,3 +31,4 @@ public class ArmstrongCheck {
         sc.close();
     }
 }
+/*a number that equals the sum of its own digits, where each digit is raised to the power of the total number of digits in the number3-digit example (153):It has 3 digits. 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153*/
